@@ -1,19 +1,18 @@
 🕘️更新时间,#genre#
-2025-11-16 18:28:16,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-17 06:26:29,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 
 📺央视频道,#genre#
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
-CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
-CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
-CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
-CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
+CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807419
+CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
+CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
+CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=cq
+CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=cq
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
@@ -44,8 +43,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
