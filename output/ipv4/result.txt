@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-20 19:27:54,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-21 06:56:59,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -11,16 +11,10 @@ CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
-河北卫视,http://153.0.171.163:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://61.184.46.85:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=1
 青海卫视,http://107.150.60.122/live/qhws.m3u8
-深圳卫视,http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://43.156.8.127:5050/ysp?id=2024061303&pid=600002481&q=fhd
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 
 ☘️广东频道,#genre#
