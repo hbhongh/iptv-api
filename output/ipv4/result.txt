@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-18 21:56:47,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-19 07:15:09,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
@@ -10,30 +10,27 @@ CCTV-13,http://pull-flv-f11.douyinliving.com/media/stream-695829341161128786.flv
 CCTV-13,http://hao6688.3322.org:30066/stream/channelid/1650386631?ticket=70b8d07bb4001a6358fbfd8600d195082357c3ad&profile=pass
 CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-15,http://hao6688.3322.org:30066/stream/channelid/253309103?ticket=236e04c48b52ff94c3c6adb7936030a7de1367f7&profile=pass
-CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
 
 📡卫视频道,#genre#
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
 黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
-安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
 广西卫视,http://207.56.13.146:81/cdnlive/gxws.m3u8
 贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8
 河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
 江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
 江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
@@ -44,18 +41,16 @@ CCTV-17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea1
 宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
 青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
-山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
 山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
 陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
 四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8
-深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
 天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
 西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
 新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
-云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
+云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
 
 ☘️广东频道,#genre#
 
@@ -81,9 +76,9 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🎵音乐频道,#genre#
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,http://107.150.60.122/live/fyyy.m3u8
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
