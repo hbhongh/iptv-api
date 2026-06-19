@@ -1,14 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-19 21:42:25,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-20 07:08:17,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
-CCTV-4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-CCTV-8,http://173.208.212.130:8181/720p/cctv8k.m3u8
+CCTV-8,http://173.208.212.130:8181/720p/cctv8.m3u8
 CCTV-13,http://173.208.212.130:8181/720p/cctv13.m3u8
 CCTV-17,http://www.negative.top:50000/rtp/233.50.200.113:5140
 
@@ -21,7 +18,6 @@ CCTV-17,http://www.negative.top:50000/rtp/233.50.200.113:5140
 北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=584a5648f57ec60599e05d68c502946e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️广东频道,#genre#
 
